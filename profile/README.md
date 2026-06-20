@@ -40,7 +40,7 @@ We turn brand systems into websites, interfaces, and digital experiences that ar
 
 ## Website
 
-[Visit Iconymo](https://iconymo-v2.vercel.app/)
+[Visit Iconymo](https://www.iconymo.com/)
 
 ## Status
 
